@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="frontvacina" title="frontvacina" src=".github/logo.svg" />
+    <img alt="Evaccina" title="Evaccina" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 <p align="center">
 
   [![Author](https://img.shields.io/badge/author-IsraelSilva-8257E5?style=flat-square)](https://github.com/israel206)
-  [![Languages](https://img.shields.io/github/languages/count/israel206/frontvacina?color=%238257E5&style=flat-square)](#)
-  <img src="https://img.shields.io/github/forks/israel206/frontvacina?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">    
-  <img src="https://img.shields.io/github/stars/israel206/frontvacina?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  [![Languages](https://img.shields.io/github/languages/count/israel206/Evaccina?color=%238257E5&style=flat-square)](#)
+  <img src="https://img.shields.io/github/forks/israel206/Evaccina?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">    
+  <img src="https://img.shields.io/github/stars/israel206/Evaccina?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="frontvacina" src=".github/EcVaccina.png" width="90%">
+  <img alt="Evaccina" src=".github/EcVaccina.png" width="90%">
 </p>
 
 
@@ -41,7 +41,7 @@ This project was developed using the following technologies:
 **Clone the project and access the folder**
   ```bash
     # clone repository
-    $ git clone https://github.com/israel206/frontvacina.git
+    $ git clone https://github.com/israel206/Evaccina.git
   ```
 ---
 
